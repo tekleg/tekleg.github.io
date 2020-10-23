@@ -1,0 +1,26 @@
+
+My name is Tekle Gebrezgabhier.I have bachelor degree in civil engineering from Eritrea Institute of Technology and recently I graduate my Associate degree in computer science from City college of San Francisco. In the future, I want to be a frontend and backend developer and designer. I am very passionate to be a web developer and so much hard working  
+
+currently, I am joining to the Media Mission Techies as a web designer. I am not experienced but familiar with Java, Javascript HTML, CSS3, Bootstrap and MySQL system  control git. My dream is   I will be offering full services  to my client as a full stack development which includes front-end and back-end of website development.  
+
+ ABOUT US :      
+            Text color = #ffffff
+            HeadER and FOOTER color= #dab278;;
+            Link color = #0000ff;
+            Background color = #E28b55;
+
+CONTACT US :      
+            Text color = #ffffff
+            HeadER and FOOTER color= #dab278;;
+            Link color = #0000ff;
+            Background color = #E28b55;
+
+ PROJECTS  :      
+            Text color = #ffffff
+            HeadER and FOOTER color= #dab278;;
+            Link color = #0000ff;
+            Background color = #E28b55;
+
+NOTE: 
+ Credit: Bruno Joseph, Ingo Joseph and Daniel Frese for the wireframe_project photos
+ 
