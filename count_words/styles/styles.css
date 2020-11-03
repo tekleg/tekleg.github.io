@@ -1,0 +1,72 @@
+ 
+
+   
+
+ 
+body {
+    background-color: #ebd2c2;  
+}
+
+ h2 {
+    color: #2A403F;
+}
+ 
+#container {
+    border-style: solid;
+    border-width: 5px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Arial";
+    border-radius: 10px;
+}
+#header {
+    background-color: #dab278;
+    height: 50px;
+}
+
+
+
+ #inputTextField{
+    font-size: 20px;
+ 
+ }
+ h1 {
+   
+     color: black;
+   
+}
+ 
+#hor ul li {
+    background-color: white;
+    display: inline-block;
+    margin-left: 25x;
+    margin-right:30px;
+    border: black;
+    border-radius: 8px;
+}
+#hor ul li #ttet{
+    
+    height: 80px;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+}
+#hor ul li #numWordsOutput {
+    width: 140px;
+    text-align: center;
+    height: 60px;
+    font-size: 20px;
+    padding-top: 20px;
+ border-radius: 8px;
+}
+#footer {
+    background-color: burlywood;
+    height: 50px;
+    text-size-adjust: 15;
+    text-align: center;
+    padding-top: 1px;
+  }
+   
